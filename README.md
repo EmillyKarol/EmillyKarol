@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Emilly!
-👩‍💻 Web Designer with an interest tech<br>🎓 Study Design at the Federal University of Ceará, Brazil<br>📚 Studied Full Stack Development at [Infinity School](https://infinityschool.com.br)</br>🔭 Currently learning about UX Design<br>❤️ In my free time, i love to draw and learn foreign languages 🇬🇧 🇨🇳
+👩‍💻 Web Designer with an interest in tech<br>🎓 Study Design at the Federal University of Ceará, Brazil<br>📚 Studied Full Stack Development at [Infinity School](https://infinityschool.com.br)</br>🔭 Currently learning about UX Design<br>❤️ In my free time, i love to draw and learn foreign languages 🇬🇧 🇨🇳
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/emillykarol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emillykarol) 
